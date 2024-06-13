@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "Nf9fmroKRWQ4rC755/N/bFL4MUDYQF/YFaqvCaNs0LM=",
+  "Source": "CloudComputeResourceTracker",
+  "BasePath": "_content/CloudComputeResourceTracker",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
